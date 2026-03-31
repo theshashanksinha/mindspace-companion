@@ -1,3 +1,6 @@
+## December 2025 – The current demonstration has been temporarily paused. It will be replaced with the new Gemini model and restarted using updated links.
+---
+
 # 🧠 MindSpace: AI Mental Health Companion
 
 <div align="center">
